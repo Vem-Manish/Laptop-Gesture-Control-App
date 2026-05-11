@@ -41,13 +41,13 @@ https://github.com/user-attachments/assets/10b07bb5-8519-4f2c-a3b3-8728f2fdaf1c
 
 | Hand Gesture | What it does |
 |---|---|
-| ☝️ 1 finger | Move mouse cursor |
-| ☝️ 1 finger + pinch thumb to middle finger's first joint | Left click / Click & hold |
-| ✌️ 2 fingers | Scroll up / down |
-| 🤟 3 fingers swipe up | Task View (`Win + Tab`) |
-| 🤟 3 fingers swipe down | Minimize window |
-| ✋ 4 fingers swipe right | Switch app (`Alt + Tab`) |
-| ✋ 4 fingers swipe left | Switch back (`Alt + Shift + Tab`) |
+| 1 finger | Move mouse cursor |
+| 1 finger + pinch thumb to middle finger's first joint | Left click / Click & hold |
+| 2 fingers | Scroll up / down |
+| 3 fingers swipe up | Task View (`Win + Tab`) |
+| 3 fingers swipe down | Minimize window |
+| 4 fingers swipe right | Switch app (`Alt + Tab`) |
+| 4 fingers swipe left | Switch back (`Alt + Shift + Tab`) |
 
 ---
 
