@@ -3,7 +3,7 @@
 > Control your Windows PC with just your hand — no mouse, no keyboard, no installation.
 
 <p align="center">
-  <a href="https://github.com/Vem-Manish/Hand-Gesture-Control-App/releases/latest/download/Hand.Gesture.Control.exe">
+  <a href="https://github.com/Vem-Manish/Laptop-Gesture-Control-App/releases/latest/download/Hand.Gesture.Control.exe">
     <img src="https://img.shields.io/badge/⬇️%20Download%20for%20Windows-28df99?style=for-the-badge&logoColor=black" alt="Download"/>
   </a>
   &nbsp;
