@@ -42,7 +42,7 @@ https://github.com/user-attachments/assets/10b07bb5-8519-4f2c-a3b3-8728f2fdaf1c
 | Hand Gesture | What it does |
 |---|---|
 | ☝️ 1 finger | Move mouse cursor |
-| ☝️ Pinch with thumb | Left click / Click & hold |
+| ☝️ 1 finger + pinch thumb to middle finger's first joint | Left click / Click & hold |
 | ✌️ 2 fingers | Scroll up / down |
 | 🤟 3 fingers swipe up | Task View (`Win + Tab`) |
 | 🤟 3 fingers swipe down | Minimize window |
