@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/10b07bb5-8519-4f2c-a3b3-8728f2fdaf1c
 
 ## ⬇️ How to Install
 
-1. Click the **Download** button above (or go to [Releases](https://github.com/Vem-Manish/Hand-Gesture-Control-App/releases/latest))
+1. Click the **Download** button above (or go to [Releases](https://github.com/Vem-Manish/Laptop-Gesture-Control-App/releases/latest))
 2. Download `Hand.Gesture.Control.exe`
 3. Double-click it — done ✅
 
